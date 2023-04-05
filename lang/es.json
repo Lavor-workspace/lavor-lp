@@ -1,0 +1,142 @@
+{
+    "language": {
+        "name": "es",
+        "lang": "es",
+        "fullname": "Español",
+        "url": "/es",
+        "selector": {
+            "first": {
+                "name": "gb",
+                "fullname": "english",
+                "url": "/en"
+            },
+            "second": {
+                "name": "it",
+                "fullname": "Italiano",
+                "url": "/it"
+            }
+        },
+        "keywords": "Lavor, open source, aplicaciones, educación, revolucionar, futuro, instituciones educativas, democratización, obsolescencia, blinke",
+        "description": "Lavor es el entorno open source que junta aplicaciones dirigidas a la educación para lograr revolucionar el como nuestro futuro se desarrolla en las instituciones educativas, democratizando la educación y eliminando la obsolescencia que existe en la educación."
+    },
+    "navbar":{
+        "home":"Inicio",
+        "about":"Sobre Lavor",
+        "know":"Síguenos",
+        "login":"Iniciar sesión"
+    },
+    "hero":{
+        "title":"Revolución tecnológica total para educar",
+        "subtitle":"El siglo 21 de la educacion es posible para TODOS gracias a Lavor",
+        "deploy":"Desplegar ahora",
+        "know":"Aprende mas"
+    },
+    "services":{
+        "pretitle":"El funcionamiento de Lavor",
+        "title":"Todo lo que conecta a nuestras instituciones educativas",
+        "explore":"Aprende mas",
+        "items":{
+            "first":{
+                "title":"Facilitando materiales educativos con Larn",
+                "subtitle":"Ahora los profesores y alumnos pueden fácilmente compartir y utilizar decenas de repositorios de conocimiento de diversos ámbitos, facilitando el estudio."
+            },
+            "second":{
+                "title":"Conectando el conocimiento con TripL",
+                "subtitle":"Descubre la diversidad educativa en las comunidades institucionales, comparte y se parte de los beneficios de seguir aprendiendo"
+            },
+            "third":{
+                "title":"Automatizando la experiencia educativa con Lavor",
+                "subtitle":"Olvida el lado burocrático y administrativo a la hora de educar y estudiar en la era digital, utiliza las ultimas tecnologías para enseñar sin fronteras"
+            }
+        }
+    },
+    "calltofirst":{
+        "title":"El futuro de la educación, generalizada y hoy",
+        "first":"Utiliza IA para desplegar de la mejor forma el conocimiento de tu asignatura",
+        "second":"Aplica las mejores técnicas de gamificacion en tu entorno",
+        "third":"Métete y mete a tus alumnos en el futuro de la tecnología, hoy",
+        "start":"Aprende mas como profesor"
+    },
+    "calltosecond":{
+        "title":"Forja una comunidad que te ayude a nunca parar de aprender",
+        "first":"Vuelve el aprender la mejor forma de diseñar tu futuro",
+        "second":"Utiliza las ultimas tecnologías para resaltar tu pasión",
+        "third":"Comparte con el mundo tus proyectos y logra tu objetivo compartiendo tu identidad",
+        "start":"Aprende mas como alumno"
+    },
+    "opinions":{
+        "title":"",
+        "items":{
+            "first":{
+                "content":"",
+                "author":"",
+                "position":""
+            },
+            "second":{
+                "content":"",
+                "author":"",
+                "position":""
+            },
+            "third":{
+                "content":"",
+                "author":"",
+                "position":""
+            },
+            "fourth":{
+                "content":"",
+                "author":"",
+                "position":""
+            }
+        }
+    },
+    "faq":{
+        "title":"Forma parte de ayudarnos entre todos a hacer un futuro tech",
+        "items":{
+            "first":{
+                "title":"En donde puedo usar Lavor?",
+                "content":"En todo ambito. Puedes usarlo tanto para aprender y acercarte a tu comunidad educativa o incluso para compartir conocimiento entre todos los alumnos de instituciones que utilizan Lavor"
+            },
+            "second":{
+                "title":"Cuanto cuesta aprender a usar Lavor?",
+                "content":"Nada. Nos esforzamos por desarrollar aplicativos didacticos y intuitivos, y para funcionalidades utiles siempre hay una gran fuerte de aprendizaje, IA's, videos, blogs, foros, entre otras herramientas para que no tengas que hacerlo todo tu, el objetivo de Lavor"
+            },
+            "third":{
+                "title":"",
+                "content":""
+            }
+        }
+    },
+    "newsletter":{
+        "title":"Descubre novedades del desarrollo de Lavor",
+        "submit":"Enviar"
+    },
+    "footer":{
+        "description":"Revolución tecnológica total para educar y nunca parar de aprender",
+        "items":{
+            "first":{
+                "title":"Lavor",
+                "items":{
+                    "first":"Funcionamiento",
+                    "second":"Tecnologías",
+                    "third":"Privacidad"
+                }
+            },
+            "second":{
+                "title":"Blinke",
+                "items":{
+                    "first":"Nosotros",
+                    "second":"Valores",
+                    "third":"Trabajo"
+                }
+            },
+            "third":{
+                "title":"Legales",
+                "items":{
+                    "first":"Términos y condiciones",
+                    "second":"Legales",
+                    "third":"Despliegue"
+                }
+            }
+        }
+    }
+}
